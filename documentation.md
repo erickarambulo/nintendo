@@ -4,7 +4,7 @@ This documentation will track changes and activities made to Google Sheets. This
 
 ## Documentation Begins here
 
-### Data Cleaning and Preparation
+### 1. Data Cleaning and Preparation
 
 **Handle missing values:** 32% of the 430 Genre values (rows) were missing. I used Google and Gemini AI to determine the genre for the Games column and fill them up.
 
@@ -12,17 +12,17 @@ This documentation will track changes and activities made to Google Sheets. This
 
 **Outlier detection:** There is no outlier for any columns especially **Sales** column.
 
-### Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 **Basic statistics:** I created a pivot table that contains basic statistics, such as finding total (sum), mean (avg), max, min, median, mode, and standard deviation for **Sales** column. Note that **Sales** column is the only numerical column out of 7 columns in dataset. Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tvLBWt_l0clf9GftTPZzfBN0/edit?usp=sharing).
 
-SUM of **Sales**: 1956055840
-AVERAGE of **Sales**: 4548967
-MAX of **Sales**: 82900000
-MIN of **Sales**: 1000000
-MEDIAN of **Sales**: 2060000
-MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
-STDEV of **Sales**: 7123725.629
+- SUM of **Sales**: 1956055840
+- AVERAGE of **Sales**: 4548967
+- MAX of **Sales**: 82900000
+- MIN of **Sales**: 1000000
+- MEDIAN of **Sales**: 2060000
+- MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
+- STDEV of **Sales**: 7123725.629
 
 **Data Visualization:**
 
