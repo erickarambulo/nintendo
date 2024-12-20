@@ -2,12 +2,36 @@
 
 # Project: Nintendo's best selling video games
 
-For this project, I used **Google Sheets** for this project to clean up and edit before taking it further for analyze stage instead of SQL query because this [dataset](https://www.kaggle.com/datasets/codefantasy/list-of-best-selling-nintendo-games) have 7 columns and 430 rows total; therefore, it's a very small data file. 
+For this project, I chose to use Google Sheets instead of SQL for data cleaning and editing before moving on to the analysis stage. This was because the [dataset](https://www.kaggle.com/datasets/codefantasy/list-of-best-selling-nintendo-games) is relatively small, with only 7 columns and 430 rows, making it suitable for manipulation in Google Sheets.
 
-The goal for this project is to show my skills in Google Sheets by checking data type consistency, dealing with missing values on **Genre** column, building a basic statistic with pivot table, and creating several data visualizations based on columns on Jupyter Notebook in Python programming language.
+The goal of this project is to demonstrate my skills in Google Sheets by:
 
-Take a look at the documentation.md file that I tracked myself of what I made changes on datasets. I hope you find this documentation very useful.
+- Verifying data type consistency
+- Addressing missing values in the **Genre** column
+- Constructing basic statistics using pivot tables
 
-Also take a look at .py file for data visualizations that I created along with markdown in there. 
+I also demonstrate the use of Python programming language in Jupyter Notebook as my IDE to create multiple data visualizations, such as:
+
+- Line plots: Plot sales over time.
+- Bar charts: Visualize the top-selling games, developers, and publishers.
+- Histograms: Analyze the distribution of sales and release dates.
+- Scatter plots: Explore relationships between variables, such as sales vs. release year.
+
+Not only basic data visualizations, but also advanced and in-depth analysis and visualizations, such as:
+
+Genre analysis:
+- Identify the most popular genres.
+- Analyze sales trends for different genres over time.
+- Compare sales performance between genres.
+
+Platform analysis:
+- Determine the best-selling platforms for Nintendo.
+- Analyze the impact of different platforms on sales.
+
+Developer and publisher analysis:
+- Identify the top-performing developers and publishers.
+- Analyze the factors contributing to their success.
+
+I've been tracking the changes I made for Google Sheets and Python in a documentation [file](https://github.com/erickarambulo/nintendo/blob/main/documentation.md) called "documentation.md." Take a look, and I hope you find it very useful.
 
 Enjoy!
