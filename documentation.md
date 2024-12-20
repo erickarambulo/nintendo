@@ -26,7 +26,7 @@ Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tv
 - MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
 - STDEV of **Sales**: 7123725.629
 
-Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python.
+Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python. Take a look at a "nintendo.py" file
 
 ---
 
