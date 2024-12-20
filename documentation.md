@@ -26,12 +26,14 @@ Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tv
 - MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
 - STDEV of **Sales**: 7123725.629
 
-I downloaded my cleaned dataset as in .csv file and saved it to my folder to take it further for data visualization and in-depth analysis stage.
+Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python.
 
 ---
 
 # Python documentations
 
+This documentation will track changes and activities made to Python code in Jupyter Notebook.
+
 **Data Visualization:** 
 
-**Correlation analysis:**(Calculate correlation coefficients to understand the relationships between variables.)
+**Correlation analysis:**
