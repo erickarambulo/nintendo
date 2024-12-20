@@ -12,7 +12,7 @@ This documentation will track changes and activities made to Google Sheets. This
 
 **Outlier detection:** There is no outlier for any columns especially **Sales** column.
 
-Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tvLBWt_l0clf9GftTPZzfBN0/edit?usp=sharing).
+Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tvLBWt_l0clf9GftTPZzfBN0/edit?usp=sharing) to see a clean dataset.
 
 ### 2. Exploratory Data Analysis (EDA)
 
@@ -26,6 +26,12 @@ Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tv
 - MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
 - STDEV of **Sales**: 7123725.629
 
-**Data Visualization:** Take a look at another file attached to this repository in Jupyter Notebook. 
+I downloaded my cleaned dataset as in .csv file and saved it to my folder to take it further for data visualization and in-depth analysis stage.
+
+---
+
+# Python documentations
+
+**Data Visualization:** 
 
 **Correlation analysis:**(Calculate correlation coefficients to understand the relationships between variables.)
