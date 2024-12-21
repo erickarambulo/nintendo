@@ -10,10 +10,10 @@ The goal of this project is to demonstrate my skills in Google Sheets by:
 - Addressing missing values in the **Genre** column
 - Constructing basic statistics using pivot tables
 
-I also demonstrate the use of Python programming language in Jupyter Notebook as my IDE to create multiple data visualizations, such as:
+I also demonstrate the use of Google Sheets to create multiple data visualizations, such as:
 
-- Line plots: Plot sales over time for each platform.
-- Bar charts: Visualize the top-selling games, developers, and publishers.
+- Line plots: Plot sales over time. ✔
+- Bar charts: Visualize the top-selling games, developers, and publishers. 
 - Histograms: Analyze the distribution of sales and release dates.
 - Scatter plots: Explore relationships between variables, such as sales vs. release year.
 
