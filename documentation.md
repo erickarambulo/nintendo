@@ -36,21 +36,23 @@ This documentation will track changes and activities made to Python code in Jupy
 
 **Data Visualization:** 
 
-- Line plot: Plot sales over time.
-![download](https://github.com/user-attachments/assets/4148d28f-dcca-4fb8-aadc-a8011ccddc67)
+- Line plot: Plot sales over time
+
+![download](https://github.com/user-attachments/assets/315398bb-0ef1-4120-8459-ebcccbc97f79)
 
 - Bar Chart: Top 10 selling games
 
-![download](https://github.com/user-attachments/assets/b7773ba7-6877-499a-bf62-062c6487d45b)
+![download](https://github.com/user-attachments/assets/314c186c-3025-499d-b4b6-84508e38fe42)
 
 - Bar Chart: Top 10 developers
 
-![download](https://github.com/user-attachments/assets/989f106e-4377-43bb-89f2-cb6b1abf8728)
+![download](https://github.com/user-attachments/assets/06d41d7b-0550-49bd-aae5-89b2a1a871f9)
 
 - Bar Chart: Top 10 Publishers
 
-![download](https://github.com/user-attachments/assets/260c978a-70b8-40c3-a2c6-8ac1e4d051dc)
+![download](https://github.com/user-attachments/assets/36e4b5ec-bafa-4b09-9454-5874d037ccf8)
 
+- Histogram: Analyze the distribution of sales and release dates
 
 
 
