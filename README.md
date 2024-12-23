@@ -13,8 +13,8 @@ The goal of this project is to demonstrate my skills in Google Sheets by:
 I also demonstrate the use of Python programming language in Jupyter Notebook as my IDE to create multiple data visualizations, such as:
 
 - [x] Line plots: Plot sales over time.
-- Bar charts: Visualize the top-selling games, developers, and publishers. 
-- Histograms: Analyze the distribution of sales and release dates.
+- [x] Bar charts: Visualize the top-selling games, developers, and publishers. 
+- [X] Histograms: Analyze the distribution of sales and release dates.
 - Scatter plots: Explore relationships between variables, such as sales vs. release year.
 
 Not only basic data visualizations, but also advanced and in-depth analysis and visualizations, such as:
