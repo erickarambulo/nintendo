@@ -20,9 +20,9 @@ I also demonstrate the use of Python programming language in Jupyter Notebook as
 Not only basic data visualizations, but also advanced and in-depth analysis and visualizations, such as:
 
 Genre analysis:
-- Identify the most popular genres.
-- Analyze sales trends for different genres over time.
-- Compare sales performance between genres.
+- Identify the most popular genres. ✔
+- Analyze sales trends for different genres over time. ✔
+- Compare sales performance between genres. 
 
 Platform analysis:
 - Determine the best-selling platforms for Nintendo.
