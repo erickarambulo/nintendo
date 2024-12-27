@@ -22,16 +22,18 @@ Not only basic data visualizations, but also advanced and in-depth analysis and 
 Genre analysis:
 - Identify the most popular genres. ✔
 - Analyze sales trends for different genres over time. ✔
-- Compare sales performance between genres. 
+- Compare sales performance between genres. ✔
 
 Platform analysis:
-- Determine the best-selling platforms for Nintendo.
-- Analyze the impact of different platforms on sales.
+- Determine the best-selling platforms for Nintendo. ✔
+- Analyze the impact of different platforms on sales. ✔
 
 Developer and publisher analysis:
 - Identify the top-performing developers and publishers. ✔
 - Analyze the factors contributing to their success. ✔
 
-I've been tracking the changes I made for Google Sheets and Python in a documentation [file](https://github.com/erickarambulo/nintendo/blob/main/documentation.md) called "documentation.md." Take a look, and I hope you find it very useful.
+I've been tracking the changes I made for Google Sheets in [documentation.md](https://github.com/erickarambulo/nintendo/blob/main/documentation.md) file. Take a look, and I hope you find it very useful. This file also contains analyses and data visualizations that I created by using Python in Jupyter Notebook as an IDE.
+
+I've also attached the file, [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/documentation.md), which showcases my honest and hard work on creating code with exceptional readability. This ensures that other coders can easily understand and adapt it for data visualizations.
 
 Enjoy!
