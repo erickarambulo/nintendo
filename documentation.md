@@ -32,13 +32,13 @@ Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tv
 - MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
 - STDEV of **Sales**: 7123725.629
 
-Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python. Take a look at a "nintendo.py" file
+Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python. Check out a file called [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/nintendo.ipynb) that is attached to main branch. That file contains a showcase of my data visualization and coding skills. I recommend to keep reading documentation.md file for both data visualizations and analyses without code. If you want to view the code without analyses, please refer to [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/nintendo.ipynb).
 
 ---
 
-# Python documentations
+# Python documentations and analysis
 
-This documentation will track changes and activities made to Python code in Jupyter Notebook.
+This documentation will track changes and activities made to Python code in Jupyter Notebook. This also display my data analysis skill.
 
 **Data Visualization:** 
 
@@ -46,9 +46,13 @@ This documentation will track changes and activities made to Python code in Jupy
 
 ![download](https://github.com/user-attachments/assets/315398bb-0ef1-4120-8459-ebcccbc97f79)
 
+The year 2006 saw the highest sales, primarily driven by the release of the Wii, the first motion-controlled gaming console, which was bundled with the popular Wii Sports game.
+
 - Bar Chart: Top 10 Selling Games
 
 ![download](https://github.com/user-attachments/assets/314c186c-3025-499d-b4b6-84508e38fe42)
+
+Notice that Wii Sports, Wii Sports Resort, and Wii Play comprised the largest sales within the sports genre. Most of the top-selling games belong to the Mario series, which consistently enjoys high popularity within the Mario franchise. Zelda also made a strong showing, securing a place within the top 10.
 
 - Bar Chart: Top 10 Developers
 
@@ -82,7 +86,7 @@ Above here, a chart of scatterplot indicates there is no correlation between Sal
 
 ![download](https://github.com/user-attachments/assets/890b3f6f-0ac1-4be7-9985-2b88ecf724fe)
 
-Platformer is the most popular genre due to the success of the Mario series, which features extensive platforming elements in most of its games. Role-playing games (RPGs) rank second in popularity, likely due to players enjoying the immersive experience of embodying a character and embarking on an in-game adventure. Sports came in third, which is somewhat surprising. However, this is likely due to the exceptionally high sales of Wii Sports and Wii Sports Resort, which significantly contributed to the overall success of the sports game genre.
+Platformer is the most popular genre due to the success of the Mario series, which features extensive platforming elements in most of its games. Role-playing games (RPGs) rank second in popularity, likely due to players enjoying the immersive experience of embodying a character and embarking on an in-game adventure. Sports came in third, which is somewhat surprising. However, this is likely due to the exceptionally high sales of Wii Sports, Wii Sports Resort, and Wii Play which significantly contributed to the overall success of the sports game genre.
 
 - Analyze sales trends for different genres over time
 
@@ -90,4 +94,8 @@ Platformer is the most popular genre due to the success of the Mario series, whi
 
 I selected the top three genres, Platformer, Role-Playing, and Sports, for this part. This decision was made to avoid overcrowding the line plot with ten lines. By focusing on the top three, I aim to enhance clarity for both myself and others when analyzing the trends.
 
-**Correlation analysis:**
+- Determine the best-selling platforms for Nintendo.
+
+![download](https://github.com/user-attachments/assets/27babe76-6e0c-48b7-8755-3bf6de03c054)
+
+Based on this chart, the Wii currently holds the top spot. However, I suspect that Nintendo Switch would likely retain the first-place position if the dataset were updated regularly, as the last update occurred three years ago.
