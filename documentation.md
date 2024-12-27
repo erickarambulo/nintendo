@@ -2,7 +2,8 @@
 
 This documentation will track changes and activities made to Google Sheets. This practice will not only enhance my documentation skills but also foster good habits for myself and future employers, coworkers, and managers. They will be able to monitor the modifications I've made to Google Sheets or other programming languages.
 
-**NOTE:** This dataset covers the period from November 1990 to March 2022, and therefore does not include any information or an updated dataset after 2022.
+**IMPORTANT NOTE:** This dataset covers the period from November 1990 to March 2022, and therefore does not include any information or an updated dataset after 2022.
+**IMPORTANT NOTE:** The 'Sales' column does not indicate the amount of money earned. Instead, it represents the total number of game copies sold.
 
 ## Documentation Begins here
 
