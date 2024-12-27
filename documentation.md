@@ -14,6 +14,8 @@ This documentation will track changes and activities made to Google Sheets. This
 
 As I am editing on December 24, 2024, I noticed there are mistakes in string for **Publisher** column. The Pokémon Company is responsible with brand management while Nintendo publish worldwide; therefore, it should be typed "The Pokémon Company, Nintendo" instead of "The Pokémon Company" or "Nintendo, The Pokémon Company". I also doubled checked on google to see if any of Pokémon game series is either made by Nintendo as single, or both The Pokémon Company and Nintendo (The Pokémon Company, Nintendo)
 
+On December 26, 2024, I observed that the Genre column contained two entries for the same genre with different spellings: 'Platform' and 'Platformer'. To ensure data consistency, I standardized the spelling by replacing all instances of 'Platform' with 'Platformer' in the Genre column.
+
 **Outlier detection:** There is no outlier for any columns especially **Sales** column.
 
 Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tvLBWt_l0clf9GftTPZzfBN0/edit?usp=sharing) to see a clean dataset.
