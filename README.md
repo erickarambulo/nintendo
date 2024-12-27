@@ -4,8 +4,6 @@
 
 For this project, I chose to use Google Sheets instead of SQL for data cleaning and editing before moving on to the analysis stage. This was because the [dataset](https://www.kaggle.com/datasets/codefantasy/list-of-best-selling-nintendo-games) is relatively small, with only 7 columns and 430 rows, making it suitable for manipulation in Google Sheets.
 
-**IMPORTANT NOTE:** The 'Sales' column does not indicate the amount of money earned. Instead, it represents the total number of game copies sold. 
-
 The goal of this project is to demonstrate my skills in Google Sheets by:
 
 - Verifying data type consistency
