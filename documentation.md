@@ -50,7 +50,6 @@ This documentation will track changes and activities made to Python code in Jupy
 
 ![download](https://github.com/user-attachments/assets/314c186c-3025-499d-b4b6-84508e38fe42)
 
-
 - Bar Chart: Top 10 Developers
 
 ![download](https://github.com/user-attachments/assets/06d41d7b-0550-49bd-aae5-89b2a1a871f9)
@@ -73,13 +72,22 @@ This chart is somewhat similar to line plot, just the only difference is line pl
 
 The common number of game copies sold is between 1 million and 3 million. The highest number of game copies sold is 82.9 million, achieved by Wii Sports.
 
-- Scatter plots: Explore relationships between variables, such as sales vs. release year.
+- Scatter plots: Explore relationships between variables, such as sales vs. release year
 
 ![download](https://github.com/user-attachments/assets/9841215d-ce35-49ae-ab18-481e12d7c2a3)
 
 Above here, a chart of scatterplot indicates there is no correlation between Sales and Release Date.
 
+- Identify the most popular genres
 
+![download](https://github.com/user-attachments/assets/890b3f6f-0ac1-4be7-9985-2b88ecf724fe)
 
+Platformer is the most popular genre due to the success of the Mario series, which features extensive platforming elements in most of its games. Role-playing games (RPGs) rank second in popularity, likely due to players enjoying the immersive experience of embodying a character and embarking on an in-game adventure. Sports came in third, which is somewhat surprising. However, this is likely due to the exceptionally high sales of Wii Sports and Wii Sports Resort, which significantly contributed to the overall success of the sports game genre.
+
+- Analyze sales trends for different genres over time
+
+![download](https://github.com/user-attachments/assets/ab9ea349-1711-4831-a021-d102269048d1)
+
+I selected the top three genres, Platformer, Role-Playing, and Sports, for this part. This decision was made to avoid overcrowding the line plot with ten lines. By focusing on the top three, I aim to enhance clarity for both myself and others when analyzing the trends.
 
 **Correlation analysis:**
