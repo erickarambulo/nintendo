@@ -2,7 +2,7 @@
 
 This documentation will track changes and activities made to Google Sheets. This practice will not only enhance my documentation skills but also foster good habits for myself and future employers, coworkers, and managers. They will be able to monitor the modifications I've made to Google Sheets or other programming languages.
 
-**IMPORTANT NOTE:** This dataset covers the period from November 1990 to March 2022, and therefore does not include any information or an updated dataset after 2022.
+**IMPORTANT NOTE:** This [dataset](https://www.kaggle.com/datasets/codefantasy/list-of-best-selling-nintendo-games) covers the period from November 1990 to March 2022, and therefore does not include any information or an updated dataset after 2022.
 
 **IMPORTANT NOTE:** The 'Sales' column does not indicate the amount of money earned. Instead, it represents the total number of game copies sold.
 
@@ -34,4 +34,4 @@ Here is the [link](https://docs.google.com/spreadsheets/d/1pn3tIEid7--GiC5ISr4tv
 - MODE of **Sales**: 1000000 (Note: I didn't do MODE on pivot table; however I did the calculation on different sheet... it was already obvious to me that the common number of game copies sold is going to be 1000000)
 - STDEV of **Sales**: 7123725.629
 
-Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python. Check out a file called [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/nintendo.ipynb) that is attached to main branch. That file contains a showcase of my data visualization and coding skills. I recommend to keep reading documentation.md file for both data visualizations and analyses without code. If you want to view the code without analyses, please refer to [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/nintendo.ipynb).
+Finally, I downloaded my cleaned dataset as a .csv file and saved it to my folder for further data visualization and in-depth analysis using Python. Check out a file called [analyses.md](https://github.com/erickarambulo/nintendo/blob/main/analyses.md) that is attached to main branch. That file contains a showcase of my analyses with data visualizations. If you want to view the code without analyses, please refer to [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/nintendo.ipynb).
