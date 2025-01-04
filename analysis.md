@@ -1,8 +1,8 @@
-# My Analyses
+# My Analysis
 
 This analysis section showcases data visualizations created using Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Plotly within a Jupyter Notebook environment. This also demonstrates my data analysis skills.
 
-**Data Visualization:** 
+**Data Visualizations:** 
 
 - Line plot: Sales Over Time
 
