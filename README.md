@@ -34,7 +34,7 @@ Developer and publisher analysis:
 
 I've been tracking the changes I made for Google Sheets in [documentation.md](https://github.com/erickarambulo/nintendo/blob/main/documentation.md) file. Take a look, and I hope you find my tracking on documentation very useful. 
 
-The [analysis.md](https://github.com/erickarambulo/nintendo/blob/main/analyses.md) file also contains analyses and data visualizations that I created by using Python in Jupyter Notebook as an IDE.
+The [analysis.md](https://github.com/erickarambulo/nintendo/blob/main/analysis.md) file also contains analyses and data visualizations that I created by using Python in Jupyter Notebook as an IDE.
 
 I've also attached the file, [nintendo.ipynb](https://github.com/erickarambulo/nintendo/blob/main/nintendo.ipynb), which showcases my honest and hard work on creating code with exceptional readability. This ensures that other coders can easily understand and adapt it for data visualizations.
 
